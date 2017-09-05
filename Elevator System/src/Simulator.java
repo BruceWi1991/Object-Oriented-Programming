@@ -29,7 +29,7 @@ public class Simulator {
 		{
 		 // going to the another update method in the Building class
 			
-	     
+	     ghghghghgh
 	         
 		}*/
 			
